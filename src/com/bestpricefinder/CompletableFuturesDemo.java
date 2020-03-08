@@ -30,7 +30,4 @@ public class CompletableFuturesDemo {
         }
     }
 
-    private static void accept(Quote quote) {
-        System.out.println();
-    }
 }
